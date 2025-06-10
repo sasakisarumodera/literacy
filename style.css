@@ -1,0 +1,7 @@
+/* style.css */
+body {
+    background-color: #FF69B4; /* メインカラー */
+    color: #000000;           /* テキストカラー */
+    font-family: "Arial Black", Arial, sans-serif;
+    margin: 20px;
+}
